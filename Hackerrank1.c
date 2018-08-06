@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int n=0,i=0,k=0,j=0,a[200][200];
+    int n=0, i=0,k=0,j=0,a[200][200];
     scanf("%d",&n);
     k=(2*n)-1;
     for(i=0;i<=k/2;i++)
